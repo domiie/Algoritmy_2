@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645179263 source:c:\users\domca\desktop\cs\ag_analyza_zatvoriek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

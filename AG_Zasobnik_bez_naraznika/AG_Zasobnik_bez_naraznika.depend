@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645180020 source:c:\users\domca\desktop\cs\ag_zasobnik_bez_naraznika\main.c
+	<stdio.h>
+	<stdlib.h>
+
