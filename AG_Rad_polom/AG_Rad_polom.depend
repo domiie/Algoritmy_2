@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645791420 source:c:\users\domca\desktop\cs\ag_rad_polom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

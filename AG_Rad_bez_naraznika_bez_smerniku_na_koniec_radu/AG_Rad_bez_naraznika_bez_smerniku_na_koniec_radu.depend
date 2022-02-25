@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645789287 source:c:\users\domca\desktop\cs\ag_bez_naraznika_bez_smerniku_na_koniec_radu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

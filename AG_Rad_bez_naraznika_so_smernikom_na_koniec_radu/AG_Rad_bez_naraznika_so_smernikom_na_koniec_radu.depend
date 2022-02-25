@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645788346 source:c:\users\domca\desktop\cs\ag_rad_bez_naraznika_so_smernikom_na_koniec_radu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
