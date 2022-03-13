@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647166583 source:c:\users\domca\desktop\cs\ag_obojsmerny_zoznam_cyklicky\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

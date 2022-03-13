@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647167567 source:c:\users\domca\desktop\cs\ag_obojsmerny_zoznam_linearny_s_naraznikmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
