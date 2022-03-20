@@ -43,10 +43,10 @@ void hodnota(ZOZNAM z, int *x){
 
 void vloz(ZOZNAM *z, int x){
     if(test(*z)){
-        z->kon = ML;
-        z->kon->h = x;
-        z->kon->nasl = NULL;
-        z->ind = z->zac = z->kon;
+        z->ind = ML;
+    	z->zac = z->kon = z->ind;
+    	z->ind->h = x;
+    	z->ind->nasl = NULL;
     }else{
         if(test_kon(*z)){
             z->kon->nasl = ML;
@@ -112,7 +112,10 @@ void odober(ZOZNAM *z){
 }
 
 void odstran(ZOZNAM *z){
-
+    skok_zac(z);
+	while(!test(*z))
+		odober(z);
+	z->zac = z->kon = z->ind = NULL;
 }
 
 int main()
