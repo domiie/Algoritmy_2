@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649082332 source:c:\users\domca\desktop\cs\ag_binarne_vyhladavanie_nerekurzivne\main.c
+	<stdio.h>
+	<stdlib.h>
+
