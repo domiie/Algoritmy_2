@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1649066994 source:c:\users\domca\desktop\cs\ag_binarny_strom_rekurzivne\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
