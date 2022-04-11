@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649694058 source:c:\users\domca\desktop\cs\ag_robot_v_bludisku\main.c
+	<stdio.h>
+	<stdlib.h>
+
