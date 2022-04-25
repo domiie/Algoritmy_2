@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650903265 source:c:\users\domca\desktop\cs\ag_hash\main.c
+	<stdio.h>
+	<stdlib.h>
+
